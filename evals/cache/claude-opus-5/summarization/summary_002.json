@@ -1,0 +1,6 @@
+{
+  "text": "Cliente relatou que o pedido não foi entregue na data prevista (ontem); após verificação com a transportadora, foi informado que a encomenda está em trânsito com nova previsão de entrega para amanhã. O cliente aceitou aguardar até amanhã — caso não receba, será necessário retomar o contato com a transportadora.",
+  "input_tokens": 222,
+  "output_tokens": 138,
+  "latency_seconds": 3.126137799990829
+}

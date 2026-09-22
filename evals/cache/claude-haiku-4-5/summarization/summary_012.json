@@ -1,0 +1,6 @@
+{
+  "text": "Cliente foi cobrado duas vezes no cartão este mês; duplicidade confirmada e estorno já solicitado pela equipe anterior, com previsão de retorno em até 5 dias úteis.",
+  "input_tokens": 176,
+  "output_tokens": 49,
+  "latency_seconds": 1.159830799966585
+}

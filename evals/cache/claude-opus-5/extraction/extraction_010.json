@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": null, \"quantidade\": 3, \"produto\": \"serviço de entrega\", \"endereco_entrega\": \"Esplanada Martins, 94\", \"quando\": \"amanhã\"}",
+  "input_tokens": 165,
+  "output_tokens": 68,
+  "latency_seconds": 2.9144570999778807
+}

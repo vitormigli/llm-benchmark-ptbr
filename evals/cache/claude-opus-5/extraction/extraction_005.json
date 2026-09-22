@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": null, \"quantidade\": 6, \"produto\": \"pedido\", \"endereco_entrega\": \"Colônia Francis",
+  "input_tokens": 167,
+  "output_tokens": 200,
+  "latency_seconds": 2.874251200002618
+}

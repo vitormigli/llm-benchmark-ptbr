@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": \"Rafael\", \"quantidade\": 2, \"produto\": \"kit iniciante\", \"endereco_entrega\": \"Chácara Ravi Lucca Brito, 84\", \"quando\": \"na sexta-feira\"}",
+  "input_tokens": 175,
+  "output_tokens": 89,
+  "latency_seconds": 1.8861643000273034
+}

@@ -1,0 +1,6 @@
+{
+  "text": "Cliente foi cobrado em duplicidade no cartão este mês. Estorno já foi solicitado e deve ser processado em até 5 dias úteis, cliente está ciente e aguardando.",
+  "input_tokens": 176,
+  "output_tokens": 48,
+  "latency_seconds": 1.2870067000039853
+}

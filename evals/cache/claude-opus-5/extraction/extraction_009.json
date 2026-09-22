@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": \"Emanuella\", \"quantidade\": 1, \"produto\": \"pedido\", \"endereco_entrega\": \"Morro Otto Rios, 31\", \"quando\": \"amanhã\"}",
+  "input_tokens": 165,
+  "output_tokens": 165,
+  "latency_seconds": 2.6740604999940842
+}

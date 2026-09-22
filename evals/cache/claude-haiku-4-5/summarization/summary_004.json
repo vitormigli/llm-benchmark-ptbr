@@ -1,0 +1,6 @@
+{
+  "text": "Cliente foi cobrado duas vezes no cartão esse mês; estorno já foi solicitado e deve ser processado em até 5 dias úteis.",
+  "input_tokens": 176,
+  "output_tokens": 38,
+  "latency_seconds": 0.9601871999911964
+}

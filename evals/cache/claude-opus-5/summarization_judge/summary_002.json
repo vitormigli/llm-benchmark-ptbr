@@ -1,0 +1,5 @@
+{
+  "score": null,
+  "reasoning": "judge did not return valid JSON",
+  "raw": "{\"score\": 4, \"reasoning\": \"O resumo cobre bem o problema (pedido não entregue na data prevista) e o status/resolução (em trânsito, nova previsão para amanhã, cliente aceitou aguardar), em duas frases. Perde um ponto por incluir uma inferência não presente na conversa ('caso não receba, será necessário ret"
+}

@@ -1,0 +1,6 @@
+{
+  "text": "Cliente esqueceu a senha da conta e recebeu link de redefinição por e-mail. Problema resolvido com sucesso - cliente conseguiu acessar a conta após trocar a senha.",
+  "input_tokens": 155,
+  "output_tokens": 48,
+  "latency_seconds": 0.9503923000302166
+}

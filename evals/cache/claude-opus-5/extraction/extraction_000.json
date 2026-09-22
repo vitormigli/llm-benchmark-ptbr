@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": \"Henry Gabriel\", \"quantidade\": 6, \"produto\": \"assinatura mensal\", \"endereco_entrega\": \"Ladeira de da Cruz\", \"quando\": \"amanhã\"}",
+  "input_tokens": 171,
+  "output_tokens": 76,
+  "latency_seconds": 2.0183651000261307
+}

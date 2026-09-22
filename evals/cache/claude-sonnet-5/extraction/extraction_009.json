@@ -1,0 +1,6 @@
+{
+  "text": "```json\n{\n  \"nome_cliente\": \"Emanuella\",\n  \"quantidade\": 1,\n  \"produto\": \"pedido\",\n  \"endereco_entrega\": \"Morro Otto Rios, 31\",\n  \"quando\": \"amanhã\"\n}\n```",
+  "input_tokens": 165,
+  "output_tokens": 86,
+  "latency_seconds": 1.5369312000111677
+}

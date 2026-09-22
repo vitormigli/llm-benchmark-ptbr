@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": \"Pietro\", \"quantidade\": 2, \"produto\": \"kit iniciante\", \"endereco_entrega\": \"Colônia de Rocha, 719\", \"quando\": \"ainda hoje\"}",
+  "input_tokens": 168,
+  "output_tokens": 74,
+  "latency_seconds": 2.9227884000283666
+}

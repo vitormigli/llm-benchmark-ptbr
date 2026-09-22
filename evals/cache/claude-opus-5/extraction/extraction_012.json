@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": \"Davi Lucca\", \"quantidade\": 5, \"produto\": \"serviço de entrega\", \"endereco_entrega\": \"Largo de Cunha, 86\", \"quando\": \"essa semana\"}",
+  "input_tokens": 170,
+  "output_tokens": 75,
+  "latency_seconds": 2.8200235999538563
+}

@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": \"Catarina\", \"quantidade\": 5, \"produto\": \"serviço de entrega\", \"endereco_entrega\": \"Área Maria Clara Nascimento, 7\", \"quando\": \"amanhã\"}",
+  "input_tokens": 168,
+  "output_tokens": 77,
+  "latency_seconds": 2.59726100001717
+}

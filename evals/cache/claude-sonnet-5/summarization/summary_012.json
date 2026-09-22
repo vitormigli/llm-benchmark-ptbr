@@ -1,0 +1,6 @@
+{
+  "text": "Cliente relatou cobrança duplicada no cartão neste mês; atendente confirmou o erro e já solicitou estorno, com prazo de até 5 dias úteis para cair, cliente aguardando confirmação do crédito.",
+  "input_tokens": 225,
+  "output_tokens": 80,
+  "latency_seconds": 1.5803669999586418
+}

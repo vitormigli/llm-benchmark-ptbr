@@ -1,0 +1,6 @@
+{
+  "text": "suporte_tecnico",
+  "input_tokens": 128,
+  "output_tokens": 10,
+  "latency_seconds": 1.2238600999698974
+}

@@ -1,0 +1,9 @@
+services:
+  benchmark:
+    build: .
+    env_file:
+      - .env
+    volumes:
+      - ./evals/cache:/app/evals/cache
+      - ./evals/results.json:/app/evals/results.json
+      - ./evals/results.md:/app/evals/results.md

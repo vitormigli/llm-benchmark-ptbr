@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": \"Mirella\", \"quantidade\": 1, \"produto\": \"plano premium\", \"endereco_entrega\": \"Sítio Costa, 863\", \"quando\": \"amanhã\"}",
+  "input_tokens": 159,
+  "output_tokens": 68,
+  "latency_seconds": 2.0173299000016414
+}

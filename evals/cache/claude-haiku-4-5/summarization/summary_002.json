@@ -1,0 +1,6 @@
+{
+  "text": "Cliente relata atraso na entrega do pedido que deveria ter chegado ontem. Transportadora confirmou que o pedido está a caminho com previsão de chegada para amanhã, cliente aceitou a solução.",
+  "input_tokens": 176,
+  "output_tokens": 57,
+  "latency_seconds": 1.2877329000039026
+}

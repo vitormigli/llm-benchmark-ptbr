@@ -1,0 +1,6 @@
+{
+  "text": "Cliente relatou cobrança duplicada no cartão referente ao mês atual; atendente confirmou o erro e solicitou estorno, que deve ser efetivado em até 5 dias úteis — cliente aguarda confirmação do reembolso.",
+  "input_tokens": 225,
+  "output_tokens": 86,
+  "latency_seconds": 1.7375639000092633
+}

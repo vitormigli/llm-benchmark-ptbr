@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": \"Agatha\", \"quantidade\": 2, \"produto\": \"plano premium\", \"endereco_entrega\": \"Esplanada Sampaio, 55\", \"quando\": \"essa semana\"}",
+  "input_tokens": 162,
+  "output_tokens": 71,
+  "latency_seconds": 2.6910670999786817
+}

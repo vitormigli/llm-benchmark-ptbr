@@ -1,0 +1,35 @@
+{
+  "claude-opus-5": {
+    "intent_accuracy": 1.0,
+    "extraction_field_accuracy": 0.84,
+    "summarization_judge_score": 5,
+    "avg_latency_seconds": 2.401349985715656,
+    "p50_latency_seconds": 2.4651521499908995,
+    "p95_latency_seconds": 3.1197294799902004,
+    "total_cost_usd": 0.12328000000000003,
+    "cost_per_1000_calls_usd": 2.9352380952380956,
+    "n_calls": 42
+  },
+  "claude-sonnet-5": {
+    "intent_accuracy": 0.8333333333333334,
+    "extraction_field_accuracy": 0.8933333333333333,
+    "summarization_judge_score": 5,
+    "avg_latency_seconds": 1.6173852904730233,
+    "p50_latency_seconds": 1.594529549998697,
+    "p95_latency_seconds": 2.198456830042413,
+    "total_cost_usd": 0.043022,
+    "cost_per_1000_calls_usd": 1.0243333333333333,
+    "n_calls": 42
+  },
+  "claude-haiku-4-5": {
+    "intent_accuracy": 1.0,
+    "extraction_field_accuracy": 0.88,
+    "summarization_judge_score": 5,
+    "avg_latency_seconds": 0.9187578976187589,
+    "p50_latency_seconds": 0.8726651000033598,
+    "p95_latency_seconds": 1.2806479050021147,
+    "total_cost_usd": 0.014733999999999999,
+    "cost_per_1000_calls_usd": 0.3508095238095238,
+    "n_calls": 42
+  }
+}

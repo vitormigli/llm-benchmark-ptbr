@@ -1,0 +1,6 @@
+{
+  "text": "```json\n{\"nome_cliente\": \"Pedro Lucas\", \"quantidade\": 5, \"produto\": \"assinatura mensal\", \"endereco_entrega\": \"Avenida Raul Andrade, 56\", \"quando\": \"no próximo sábado\"}\n```",
+  "input_tokens": 176,
+  "output_tokens": 87,
+  "latency_seconds": 2.5302908000303432
+}

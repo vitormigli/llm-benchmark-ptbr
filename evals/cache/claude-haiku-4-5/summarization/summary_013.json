@@ -1,0 +1,6 @@
+{
+  "text": "Cliente foi cobrado em duplicidade no cartão este mês; atendente anterior já solicitou o estorno que deve ser processado em até 5 dias úteis, aguardando confirmação.",
+  "input_tokens": 176,
+  "output_tokens": 48,
+  "latency_seconds": 1.1094918999588117
+}

@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": \"João Pedro\", \"quantidade\": 5, \"produto\": \"kit iniciante\", \"endereco_entrega\": \"Feira Souza, 784\", \"quando\": \"amanhã\"}",
+  "input_tokens": 164,
+  "output_tokens": 70,
+  "latency_seconds": 3.2973232000367716
+}

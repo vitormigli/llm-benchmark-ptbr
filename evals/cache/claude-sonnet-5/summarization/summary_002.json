@@ -1,0 +1,6 @@
+{
+  "text": "Cliente relatou atraso na entrega do pedido (previsto para ontem); verificado com a transportadora, nova previsão de chegada é amanhã e o cliente concordou em aguardar.",
+  "input_tokens": 222,
+  "output_tokens": 67,
+  "latency_seconds": 1.5602504999842495
+}

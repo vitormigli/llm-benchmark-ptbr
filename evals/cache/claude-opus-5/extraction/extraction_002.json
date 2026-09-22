@@ -1,0 +1,6 @@
+{
+  "text": "{\"nome_cliente\": null, \"quantidade\": 6, \"produto\": \"assinatura mensal\", \"endereco_entrega\": \"Favela da Conceição\", \"quando\": \"essa semana\"}",
+  "input_tokens": 162,
+  "output_tokens": 65,
+  "latency_seconds": 2.997971399978269
+}

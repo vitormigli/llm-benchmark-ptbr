@@ -1,0 +1,6 @@
+{
+  "text": "Cliente recebeu produto com defeito na tela; troca sem custo já foi providenciada e etiqueta de devolução enviada por e-mail, aguardando envio do item pelo cliente.",
+  "input_tokens": 215,
+  "output_tokens": 67,
+  "latency_seconds": 1.746856999990996
+}

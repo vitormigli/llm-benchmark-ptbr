@@ -1,4 +1,12 @@
-# LLM Benchmark (pt-BR)
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0A66C2&height=110&section=header&text=LLM%20Benchmark%20(pt-BR)&fontSize=32&fontColor=ffffff&fontAlignY=55" width="100%"/>
+
+[![CI](https://github.com/vitormigli/llm-benchmark-ptbr/actions/workflows/ci.yml/badge.svg)](https://github.com/vitormigli/llm-benchmark-ptbr/actions/workflows/ci.yml)
+![Python](https://img.shields.io/badge/python-3.11+-3776AB?logo=python&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-Opus%205%20%C2%B7%20Sonnet%205%20%C2%B7%20Haiku%204.5-D97757?logo=anthropic&logoColor=white)
+
+</div>
 
 A reproducible benchmark of Claude model tiers on three real Brazilian-Portuguese
 tasks: customer-service intent classification, free-text field extraction, and
